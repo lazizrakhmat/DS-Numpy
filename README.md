@@ -1,2 +1,1 @@
-# DataScience_mohirdev
-# Numpy library 
+ # Numpy library 
